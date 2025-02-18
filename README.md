@@ -37,7 +37,7 @@
 ![Recently Played](https://lastfm-recently-played.vercel.app/api?user=nay-casz)
 
 ## 🌺 Find me!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C97AA?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/nayara-calderón-sánchez-240062338)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C97AA?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayara-calder%C3%B3n-s%C3%A1nchez-240062338/)
 [![Gmail](https://img.shields.io/badge/Gmail-D08961?style=flat-square&logo=gmail&logoColor=white)](mailto:nayaracs208@gmail.com)
 
 _Portfolio under construction..._
@@ -45,6 +45,7 @@ _Portfolio under construction..._
 
 ## 🪻 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayaracs&show_icons=true&theme=tokyonight)![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayaracasz&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayaracs&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayaracasz&theme=tokyonight)
 
 ![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=nayaracasz&theme=dracula)
