@@ -46,4 +46,4 @@ _Portfolio under construction..._
 ## 🪻 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nayaracasz&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayaracasz&theme=tokyonight)
+
